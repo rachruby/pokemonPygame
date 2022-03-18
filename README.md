@@ -1,2 +1,7 @@
 # pokemonPygame
-# An attempt to create a mini Pokemon game using Pygame; written in Python. 
+
+
+
+
+
+# An attempt to create a mini Pokémon game using Pygame; written in Python. 
